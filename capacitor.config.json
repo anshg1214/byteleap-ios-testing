@@ -1,14 +1,11 @@
 {
-  "appId": "com.example.app",
-  "appName": "testing-capacitorjs",
-  "bundledWebRuntime": false,
-  "webDir": "dist",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
+    "appId": "com.cruxansh.app",
+    "appName": "byteleap-ios-testing",
+    "bundledWebRuntime": false,
+    "webDir": "dist",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
     }
-  },
-  "server": {
-    "androidScheme": "https"
-  }
 }
